@@ -5,9 +5,7 @@ Im a 4 semester Electrics Engineering Student with passion to PCB and circuit de
 
 
 <h2 align="left">Languages and tools</h2>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 VHDL, KiCad, LTspice
 
 
@@ -15,5 +13,9 @@ VHDL, KiCad, LTspice
 - Formula Student
 - The Als Rocketry Club
 
+## xD
 
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
