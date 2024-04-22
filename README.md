@@ -10,6 +10,7 @@ Im a 4 semester Electrics Engineering Student with passion to PCB and circuit de
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.matlab.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
 
+VHDL, KiCad, LTspice
 
 
 ## Current Projects
